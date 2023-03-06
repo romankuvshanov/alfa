@@ -1,10 +1,13 @@
 # Alfa
 
-This is a repository with code for alfa. I have trained markov chains model via [markovify](https://github.com/jsvine/markovify) and ruGPTMedium models by [Sber](https://github.com/ai-forever/ru-gpts) to imitate official telegarm chanel by AlfaBank. Best results of geneartions are placed at [this telegram chanel](https://t.me/NotAlfaBank) and model with code can be found in this repository. 
+This is a repository with code for alfa. I have trained markov chains model via [markovify](https://github.com/jsvine/markovify) and ruGPTMedium models by [Sber](https://github.com/ai-forever/ru-gpts) to imitate official telegarm chanel by AlfaBank. Best results of geneartions are placed at [this telegram chanel](https://t.me/NotAlfaBank) and model ([link to the weights](https://drive.google.com/file/d/1-7U_OYzzT-lpV7YrRTLrFzjQuVfCXv1N/view?usp=share_link)) with code can be found in this repository.
+
+[![Try Model Generation In Colab!](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romankuvshanov/alfa/blob/main/Alfa.ipynb)
 
 ## Technologies I've used
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Screenshots
 
